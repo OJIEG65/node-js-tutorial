@@ -19,5 +19,9 @@
   "homepage": "https://github.com/OJIEG65/node-js-tutorial#readme",
   "devDependencies": {
     "nodemon": "^1.19.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.0"
   }
 }
